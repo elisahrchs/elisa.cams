@@ -20,7 +20,7 @@ a{
 /* Define as características do header */
 .header{
     /* Cor de fundo */
-     background-color: black;
+     background-color: blanchedalmond;
      /* display flexível */
      display: flex;
      /* Organizado em linha*/
@@ -45,5 +45,5 @@ a{
 .menu li a{
     display: block;
     padding: 10px;
-    background-color: blueviolet;
+    background-color: rgb(120, 170, 120);
 }
